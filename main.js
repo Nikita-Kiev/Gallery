@@ -5,3 +5,4 @@ let imagesList = document.getElementById("imagesList").getElementsByTagName("a")
         document.getElementById("mainImg").setAttribute("src", event.currentTarget.getAttribute("href"));
       }
     }
+    
